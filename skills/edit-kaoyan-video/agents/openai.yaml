@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研短视频剪辑"
+  short_description: "把考研口播剪成有同步字幕和资料画面的清单或实操短片"
+  default_prompt: "用 $edit-kaoyan-video 按这份口播稿和录音做粗剪，并给我看预览。"
