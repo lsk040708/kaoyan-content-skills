@@ -1,0 +1,13 @@
+interface:
+  display_name: 考研文案生成器
+  short_description: 把已定考研选题写成能直接念的短视频口播，也可改稿、写配文或补分镜
+  default_prompt: 用 $write-kaoyan-copy 帮我写考研文案，我的题目是……
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
