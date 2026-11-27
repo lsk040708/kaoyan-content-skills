@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研短视频封面"
+  short_description: "拆解原IP封面并把考研选题做成手机上看得清的原创封面"
+  default_prompt: "用 $design-kaoyan-cover 按这份考研口播和素材设计封面，给我看预览。"
